@@ -81,7 +81,7 @@ $ ssh-add ~/.ssh/id_rsa
 $ eval `ssh-agent -s`
 $ ssh-add
 ```
-### 3.复制密钥
+### 3.复制密钥，
 ```
 $ clip < ~/.ssh/id_rsa.pub
 ```
@@ -99,4 +99,4 @@ $ hexo g
 $ hexo d
 ```
 ## 五、请开始你的表演
-打开浏览器输入https://用户名.github.io/，比如<https://chen-rhythm.github.io/>，然后……就没有然后了
+打开浏览器输入https://用户名.github.io/，比如<https://chen-rhythm.github.io/>，然后……就没有然后了谢谢观看
