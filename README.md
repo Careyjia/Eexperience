@@ -89,7 +89,7 @@ $ clip < ~/.ssh/id_rsa.pub
 ```
 通过指令复制密钥，之后可以直接Ctrl+V粘贴密钥
 ### 4.在Github上添加密钥
-打开[Github](https://github.com)，在同名repo的右上角**Settings**里选择**Deploy keys**选项卡，点击**Add deploy keys**，将刚复制好的密钥粘贴上去，点击**Add key**，在弹出来的框中输入Github的登陆密码即可完成添加
+打开[Github](https://github.com "Github")，在同名repo的右上角**Settings**里选择**Deploy keys**选项卡，点击**Add deploy keys**，将刚复制好的密钥粘贴上去，点击**Add key**，在弹出来的框中输入Github的登陆密码即可完成添加
 ### 5.测试一下
 ```
 $ ssh -T git@github.com
@@ -101,4 +101,4 @@ $ hexo g
 $ hexo d
 ```
 ## 五、请开始你的表演
-打开浏览器输入https://用户名.github.io/，然后……就没有然后了
+打开浏览器输入https://用户名.github.io/，比如<https://chen-rhythm.github.io/>，然后……就没有然后了
